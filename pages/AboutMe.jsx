@@ -12,7 +12,7 @@ function AboutMe() {
         <ul className="flex flex-col md:flex-row justify-center items-center gap-8">
           <li>
             <img
-              src="src/image/Npotrait.png"
+              src="./Npotrait.png"
               alt="Foto Najah"
               className="w-[60vw] md:w-[30vw] shadow-md mt-20"
             />
