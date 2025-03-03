@@ -19,7 +19,7 @@ function SocMed() {
           className="group block"
         >
           <img
-            src="src\image\instagram.png"
+            src="./instagram.png"
             alt=""
             className="h-[250px] object-cover sm:h-[250px]"
           />
@@ -73,7 +73,7 @@ function SocMed() {
 
         <a href="https://t.me/najahkarimahm" className="group block">
           <img
-            src="src\image\telegram.png"
+            src="./telegram.png"
             alt=""
             className="h-[250px] object-cover sm:h-[250px]"
           />
@@ -129,7 +129,7 @@ function SocMed() {
           className="group block"
         >
           <img
-            src="src\image\whatsapp.png"
+            src="./whatsapp.png"
             alt=""
             className="h-[250px] object-cover sm:h-[250px]"
           />

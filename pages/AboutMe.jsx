@@ -61,7 +61,7 @@ function AboutMe() {
           <div className="sm:w-1/3 w-full">
             <img
               alt="Resume"
-              src="src\image\Nfoto.jpg"
+              src="./Nfoto.jpg"
               className="w-full h-64 sm:h-full object-cover"
             />
           </div>
