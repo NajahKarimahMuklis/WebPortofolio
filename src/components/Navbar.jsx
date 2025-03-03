@@ -38,7 +38,7 @@ function Navbar() {
       } transition-all duration-300 z-50`}
     >
       <img
-        src="src/image/NKM.png"
+        src="./NKM.png"
         className={`transition-all duration-300 ${
           isScrolled ? "w-10 h-10" : "w-16 h-16"
         }`}
